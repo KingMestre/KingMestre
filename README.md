@@ -1,6 +1,4 @@
-# Olá! Seja bem-vindo ao meu perfil. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
-
-- 📝Conhecimento extenso com Factions
+# Hello! Welcome to my profile. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
 
 ➟ INFOS:
 
